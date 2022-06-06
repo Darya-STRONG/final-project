@@ -1,0 +1,117 @@
+
+.Publications {
+    background-color:  #F5F5FA;
+}
+
+.padding-left {
+    margin-left:0;
+}
+
+.Publications-container {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    background: #F5F5FA;
+    justify-content: center;
+}
+
+.Publication-size {
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    max-width: 513.33px;
+}
+
+.Publication-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    color: #24A3FF;
+    font-size: 16px;
+    line-height: 1.25;
+}
+
+.date {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1.219px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #B3B3BA;
+    width:initial;
+
+}
+
+.Publication-text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #000000;
+}
+
+
+.Vector-subtitle {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    padding-top: 30px;
+    margin-left: 60px;
+
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #24A3FF;
+
+}
+
+.Publications-subtitle {
+        display: inline-block;
+}
+
+.Publications-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+    margin-left: 60px;
+
+    background: linear-gradient(90.13deg, #F0145A 0.84%, #EF8080 99.96%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -text-fill-color: transparent;
+}
+
+.Publications-line {
+    width: 100%;
+    height: 2px;
+    background-color:  #E6E6F0;
+    border-radius: 0;
+    display: inline-block;
+}
+
+
+.Publication-photo img {
+    background-repeat:no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.Publication-content {
+    margin-top:30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+
+

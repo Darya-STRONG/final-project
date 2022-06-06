@@ -1,0 +1,109 @@
+
+.company-size {
+    width: 100%;
+    max-width: 25%;
+    &::after {
+        content:'';
+        display: block;
+        padding-top: 25%;
+    }
+}
+
+.company {
+
+    &-container{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    &-title {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #323264;
+        text-align: center;
+        margin-top: 60px;
+
+    }
+}
+
+
+
+
+.company1 {
+    background: #1C4280;
+    background-image:url(../img/company/company1.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company2 {
+    background: #143646;
+    background-image:url(../img/company/company2.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company3 {
+    background: #F48B30;;
+    background-image:url(../img/company/company3.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company4 {
+    background: #9E4DC3;;
+    background-image:url(../img/company/company4.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company5 {
+    background: #FD9339;;
+    background-image:url(../img/company/company5.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company6 {
+    background:  #E2E2E4;;
+    background-image:url(../img/company/company6.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company7 {
+    background:   #C71C36;
+    background-image:url(../img/company/company7.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company8 {
+    background: #DCF3F9;
+    background-image:url(../img/company/company8.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company9 {
+    background: #EAEAEA;
+    background-image:url(../img/company/company9.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company10 {
+    background: #282240;
+    background-image:url(../img/company/company10.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company11 {
+    background: #1D4568;
+    background-image:url(../img/company/company11.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.company12 {
+    background: #000000;
+    background-image:url(../img/company/company12.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
